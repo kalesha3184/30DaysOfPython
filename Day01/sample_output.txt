@@ -1,0 +1,20 @@
+PS C:\Users\kales\Desktop\30DaysOfPython\Day01> python day1_intro.py
+20
+5.9
+Shaik Kaleshavali
+True
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+
+
+PS C:\Users\kales\Desktop\30DaysOfPython\Day01> python day1_madlibs.py
+Enter an adjective: sad
+Enter a noun: goast
+Enter an adjective: funniest
+
+========================================
+Once upon a time, a sad goast decided to danced. Everyone in cinema theatre was amazed and clapped. It was the most funniest day ever! To the audineces
+
+========================================
