@@ -1,0 +1,49 @@
+PS C:\Users\kales\Desktop\30DaysOfPython\Day02> python day2_string_methods.py    
+Original: '  hello WORLD  '
+After strip: 'hello WORLD'
+Upperscase: HELLO WORLD
+Uppercase1:   HELLO WORLD
+Lowercase: hello WORLD
+Capitalized: Hello world
+Title case: Welcome To The Party American Club
+Replaced: I like Cats
+Length of 'kalesha': 7 characters
+
+
+
+PS C:\Users\kales\Desktop\30DaysOfPython\Day02> python day2_slicing.py       
+Full message: Python Programming is fun!
+First 6 chars: Python
+Characters 7-18: Programming
+From index 7: Programming is fun!
+First 10 chars: Python Pro
+Every 2nd char: Pto rgamn sfn
+Last 4 chars: fun!
+Reversed: !nuf si gnimmargorP nohtyP
+
+
+
+
+PS C:\Users\kales\Desktop\30DaysOfPython\Day02> python day2_username_validator.py
+==================================================
+   USERNAME VALIDATOR & FORMATTER
+==================================================
+
+Enter desired username: kaleshavali
+
+Raw input: 'kaleshavali'
+After cleaning: 'kaleshavali'
+After lowercase: kaleshavali
+
+Username length: 11 characters
+
+--------------------------------------------------
+VALIDATION RESULTS:
+--------------------------------------------------
+✅ 'kaleshavali' is AVAILABLE!
+   Perfect length: 11 characters
+   ✅ Contains only letters and numbers (good!)
+
+==================================================
+✨ Username is ready for your account! ✨
+==================================================
