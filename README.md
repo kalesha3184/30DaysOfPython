@@ -4,13 +4,21 @@ I'm learning Python from scratch in 30 days. No prior coding experience.
 
 ## 📅 Progress Tracker
 
-| Day | Topic | Project | Status |
+| Day 1 | Topic | Project | Status |
 |-----|-------|---------|--------|
 | 1 | Variables, input(), print() | Mad Libs Game | ✅ Complete |
 | 2 | Strings & Methods | Coming soon | 📅 Tomorrow |
 | 3 | Numbers & Math | Coming soon | 📅 |
 | 4 | Lists | Coming soon | 📅 |
 | 5 | Dictionaries | Coming soon | 📅 |
+
+
+
+| Day 2 | Topic | Project | Status |
+|-----|-------|---------|--------|
+| 1 | Variables, input(), print() | Mad Libs Game | ✅ Complete |
+| 2 | String Methods & Slicing | Username Validator | ✅ Complete |
+| 3 | Numbers & Math | Coming soon | 📅 |
 
 ## 🚀 How to Run My Code
 
